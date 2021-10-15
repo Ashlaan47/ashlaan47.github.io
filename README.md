@@ -1,5 +1,5 @@
 ## Hi there 👋, this is Syed Ashlaan Ahmed from India !!
-#### I am a Developer, Guitar Player and hardcore blues fan !!!
+#### I am a Developer, Guitar Player and hardcore metal fan!!!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlaan-ahmed-1b9738169/)
 &nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ashlaan.ahmed)&nbsp;   [![Insta](https://img.shields.io/badge/ashlaan47-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ashlaan47/) &nbsp;
